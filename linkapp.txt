@@ -1,0 +1,5 @@
+{
+"Whatsapp" : "https://apkpure.com/id/whatsapp-messenger/com.whatsapp/download?from=details",
+"Instagram" : "https://apkpure.com/id/instagram/com.instagram.android/download?from=details",
+"Tiktok" : "https://apkpure.com/tiktok/com.ss.android.ugc.trill/download?from=details"
+}
